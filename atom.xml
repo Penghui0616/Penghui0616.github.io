@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Penghui0616.github.io</id>
+    <title>Penghui&apos;s Blog</title>
+    <updated>2023-10-20T06:02:16.312Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Penghui0616.github.io"/>
+    <link rel="self" href="https://Penghui0616.github.io/atom.xml"/>
+    <subtitle>不是人间富贵花</subtitle>
+    <logo>https://Penghui0616.github.io/images/avatar.png</logo>
+    <icon>https://Penghui0616.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Penghui&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[以色列：一个民族的重生 （丹尼尔·戈迪斯）]]></title>
+        <id>https://Penghui0616.github.io/post/yi-se-lie-yi-ge-min-zu-de-chong-sheng-dan-ni-er-ge-di-si/</id>
+        <link href="https://Penghui0616.github.io/post/yi-se-lie-yi-ge-min-zu-de-chong-sheng-dan-ni-er-ge-di-si/">
+        </link>
+        <updated>2023-10-20T04:01:35.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>赫茨尔所取得的最伟大的成功，竟是源于一次彻底失败的会面。赫茨尔曾找到著名金融家和慈善家莫里斯·德·赫希男爵，希望他能支持建立犹太国的激进观念。赫希很为东欧犹太人的未来担忧，但他已经有了另一个解决“犹太人问题”的办法。男爵以前就认为巴勒斯坦方案不可行，所以已经着手自主一些俄国犹太人前往阿根廷。赫茨尔想改变赫希的想法，但他给出的理由不够有说服力，最后只得两手空空地离开。为了下次能做得更好，赫茨尔决定把自己的想法付诸文字，并逐步发展为《犹太国》一书的雏形。</p>
+</blockquote>
+<blockquote>
+<p>1897年8月29日第一届犹太复国主义者大会确定了犹太国国歌《希望》，是一首用一句话写成的国歌：</p>
+<blockquote>
+<p>只要心灵深处，尚存犹太人的渴望，眺望东方的眼睛，注视着锡安山岗，我们还没有失去，两千年的希望，做一个自由的民族，屹立在锡安山河耶路撒冷之上。</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>如果你渴望它，它就不是梦想。</p>
+</blockquote>
+<blockquote>
+<p>我感到人的生命应该深深扎在故土某处，他可以在哪里获得这种温柔而亲切的爱：爱那里的大地，爱那里人们的劳作，爱那里萦绕在那里的各种声响和乡音，爱可以将早年的家园从日后博文广识中清晰区分开的一一切；每当历历在目的往事涌上心头，就会交织着思慕之情。（乔治·艾略特）</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偏压荷载下承台的冲切承载力试验]]></title>
+        <id>https://Penghui0616.github.io/post/blog01/</id>
+        <link href="https://Penghui0616.github.io/post/blog01/">
+        </link>
+        <updated>2023-09-27T16:24:02.000Z</updated>
+        <content type="html"><![CDATA[<p>University of Texas 的Yousun Yi做的桩基承台试验，包括13个大比例尺的竖向加载试验，试验包括三个系列：</p>
+<ol>
+<li>
+<p>竖向中心加载试验，试验参数包括底层钢筋的布置（分布钢筋、集中配筋），底层钢筋的锚固形式（直钢筋、端部设90°弯钩），冲垮比，桩基直径，侧面钢筋网配筋率（考虑温度效应和收缩徐变），承台厚度（冲垮比保持不变，研究尺寸效应）；试验结果表明当配筋率不变时，采用集中配筋的方式，竖向承载力提高4%，和前人研究的6% (Clarke, 1973) 和 8% (Suzuki et al., 1998)吻合。考虑到集中配筋造成承台底层钢筋密集，易与桩基纵筋冲突；且集中配筋的的裂缝宽度大，正常使用性能差，因此推荐使用均匀网格配筋。<br>
+<img src="https://Penghui0616.github.io/post-images/1695833215191.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>小偏心压弯加载，满足桥墩纵筋受拉屈服，但桩基始终受压，研究桥墩纵筋的最小锚固长度，试验参数为纵筋端部的锚固形式（直钢筋；端部设置锚垫板；端部设朝桥墩内侧的弯钩，端部设朝桥墩外侧的弯钩）；<br>
+<img src="https://Penghui0616.github.io/post-images/1695832852804.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>大偏心压弯加载，桩基纵筋受拉屈服，研究桩基纵筋的最小锚固长度，试验参数为为纵筋端部的锚固形式（直钢筋；端部设置锚垫板；端部设朝桥墩外侧的弯钩），试验中桩基纵筋的端部应力都很小，即端部锚固形式未能发挥作用。</p>
+</li>
+</ol>
+<p>基于试验结果提出的STM，相比于Williams (2012)主要包括以下几点改进：</p>
+<ol>
+<li>底部拉杆验算考虑底面所有的纵筋，而不仅仅考虑bandwidth内的钢筋；</li>
+<li>给出了三维节点的验算，给出了三维节点几何尺寸的计算方法，考虑墩截面实际的受压区高度，假定节点高度0.2h或0.2cb；</li>
+<li>给出了桥墩纵筋和桩基纵筋锚固长度的验算方法。</li>
+</ol>
+]]></content>
+    </entry>
+</feed>
